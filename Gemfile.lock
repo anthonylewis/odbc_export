@@ -1,0 +1,16 @@
+GEM
+  specs:
+    dbd-odbc (0.2.5)
+      dbi (>= 0.4.0)
+    dbi (0.4.5)
+      deprecated (= 2.0.1)
+    deprecated (2.0.1)
+    ruby-odbc (0.99994)
+
+PLATFORMS
+  x86-mingw32
+
+DEPENDENCIES
+  dbd-odbc
+  dbi
+  ruby-odbc
